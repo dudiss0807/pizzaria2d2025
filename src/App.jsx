@@ -7,7 +7,7 @@ const [nome,setNmae] = useState('Ronaldo')
 
   return(
     <div>
-      <h3>pizzaria 2D</h3>
+      <h3>Stray Kids</h3>
 
 <input 
 className="nome"
